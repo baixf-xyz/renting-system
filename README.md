@@ -2,6 +2,8 @@
 
 登陆地址：localhost:8888
 
+小组成员：荆海鹏 杨洪利 张澍航
+
 ## 技术栈：
 
 * 后端：Spring Boot 
@@ -24,3 +26,4 @@
 ## 技术参考：
 
 [https://github.com/xzyJavaX/JavaCollege](https://github.com/xzyJavaX/JavaCollege)
+
