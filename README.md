@@ -23,6 +23,22 @@
 * 网站流量统计，房源各项数据统计  
 * 后台查看全网站数据
 
+## 运行截图：
+
+![首页界面](pic/审核后首页界面.PNG)
+
+![普通用户菜单界面](pic/普通用户菜单界面.PNG)
+
+![户主管理界面](pic/户主管理界面.PNG)
+
+![管理员户主管理界面](pic/管理员户主管理界面.PNG)
+
+![管理员普通用户管理界面](pic/管理员普通用户管理界面.PNG)
+
+![数据库user界面](pic/数据库user界面.PNG)
+
+
+
 ## 技术参考：
 
 [https://github.com/xzyJavaX/JavaCollege](https://github.com/xzyJavaX/JavaCollege)
