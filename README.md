@@ -1,17 +1,21 @@
-# renting system 
+# renting system
 
 登陆地址：localhost:8888
 
-小组成员：荆海鹏 杨洪利 张澍航
+团队名称：rm小队
 
-## 技术栈：
+团队成员：荆海鹏 杨洪利 马允新
+
+### 基本功能：
+
+##### 技术栈：
 
 * 后端：Spring Boot 
 * 前端：Vue.js 
 * 中间件：Redis + Elasticsearch + Shiro + Nginx 
 * 数据库：Mysql
 
-## 功能介绍：
+##### 项目介绍：
 
 * 普通用户与管理员，实现了部分核心功能 
 * 户主权限，户主可以自己申请上传房源以及图片   
