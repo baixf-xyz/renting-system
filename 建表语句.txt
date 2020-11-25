@@ -140,3 +140,4 @@ CREATE TABLE `notification` (
   `status` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+INSERT INTO `renting`.`user`(`id`, `tel`, `password`, `username`, `position`) VALUES (1, '10086', '123456', '白小飞', '管理员');
