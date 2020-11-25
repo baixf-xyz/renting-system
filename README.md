@@ -4,7 +4,7 @@
 
 团队名称：rm小队
 
-团队成员：荆海鹏 杨洪利 马允新
+团队成员：荆海鹏 杨洪利 马允新 张澍航
 
 ### 基本功能：
 
@@ -16,6 +16,8 @@
 * 数据库：Mysql
 
 ##### 项目介绍：
+
+![](pic/renting+system.png)
 
 * 普通用户与管理员，实现了部分核心功能 
 * 户主权限，户主可以自己申请上传房源以及图片   
@@ -43,7 +45,4 @@
 
 
 
-## 技术参考：
-
-[https://github.com/xzyJavaX/JavaCollege](https://github.com/xzyJavaX/JavaCollege)
 
